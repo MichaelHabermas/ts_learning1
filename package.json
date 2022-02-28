@@ -11,7 +11,7 @@
 		"type": "git",
 		"url": "git+https://github.com/MichaelHabermas/ts_learning1.git"
 	},
-	"author": "",
+	"author": "Michael Habermas",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/MichaelHabermas/ts_learning1/issues"
